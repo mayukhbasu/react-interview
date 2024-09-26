@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-interview/static/css/main.f855e6bc.css",
+    "main.js": "/react-interview/static/js/main.1201ba16.js",
+    "static/js/453.31e9e216.chunk.js": "/react-interview/static/js/453.31e9e216.chunk.js",
+    "index.html": "/react-interview/index.html",
+    "main.f855e6bc.css.map": "/react-interview/static/css/main.f855e6bc.css.map",
+    "main.1201ba16.js.map": "/react-interview/static/js/main.1201ba16.js.map",
+    "453.31e9e216.chunk.js.map": "/react-interview/static/js/453.31e9e216.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1201ba16.js"
+  ]
+}
